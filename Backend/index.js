@@ -1,3 +1,4 @@
+//index.js main file
 import  express  from "express";
 import dotenv from "dotenv"
 import mongoose from "mongoose";
